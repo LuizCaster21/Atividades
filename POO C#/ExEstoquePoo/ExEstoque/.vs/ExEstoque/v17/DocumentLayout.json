@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Caster\\Documents\\Cursos\\POO C#\\ExEstoquePoo\\ExEstoque\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3123B30A-5595-4828-B377-F207F26B4B4F}|ExEstoque\\ExEstoque.csproj|c:\\users\\caster\\documents\\cursos\\poo c#\\exestoquepoo\\exestoque\\exestoque\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3123B30A-5595-4828-B377-F207F26B4B4F}|ExEstoque\\ExEstoque.csproj|solutionrelative:exestoque\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3123B30A-5595-4828-B377-F207F26B4B4F}|ExEstoque\\ExEstoque.csproj|c:\\users\\caster\\documents\\cursos\\poo c#\\exestoquepoo\\exestoque\\exestoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3123B30A-5595-4828-B377-F207F26B4B4F}|ExEstoque\\ExEstoque.csproj|solutionrelative:exestoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Caster\\Documents\\Cursos\\POO C#\\ExEstoquePoo\\ExEstoque\\ExEstoque\\Produto.cs",
+              "RelativeDocumentMoniker": "ExEstoque\\Produto.cs",
+              "ToolTip": "C:\\Users\\Caster\\Documents\\Cursos\\POO C#\\ExEstoquePoo\\ExEstoque\\ExEstoque\\Produto.cs",
+              "RelativeToolTip": "ExEstoque\\Produto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T06:26:59.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Caster\\Documents\\Cursos\\POO C#\\ExEstoquePoo\\ExEstoque\\ExEstoque\\Program.cs",
+              "RelativeDocumentMoniker": "ExEstoque\\Program.cs",
+              "ToolTip": "C:\\Users\\Caster\\Documents\\Cursos\\POO C#\\ExEstoquePoo\\ExEstoque\\ExEstoque\\Program.cs",
+              "RelativeToolTip": "ExEstoque\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T06:25:32.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

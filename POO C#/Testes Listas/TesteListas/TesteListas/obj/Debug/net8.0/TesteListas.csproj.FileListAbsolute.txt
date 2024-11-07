@@ -1,0 +1,14 @@
+C:\Users\Caster\Documents\Cursos\POO C#\Testes Listas\TesteListas\TesteListas\bin\Debug\net8.0\TesteListas.exe
+C:\Users\Caster\Documents\Cursos\POO C#\Testes Listas\TesteListas\TesteListas\bin\Debug\net8.0\TesteListas.deps.json
+C:\Users\Caster\Documents\Cursos\POO C#\Testes Listas\TesteListas\TesteListas\bin\Debug\net8.0\TesteListas.runtimeconfig.json
+C:\Users\Caster\Documents\Cursos\POO C#\Testes Listas\TesteListas\TesteListas\bin\Debug\net8.0\TesteListas.dll
+C:\Users\Caster\Documents\Cursos\POO C#\Testes Listas\TesteListas\TesteListas\bin\Debug\net8.0\TesteListas.pdb
+C:\Users\Caster\Documents\Cursos\POO C#\Testes Listas\TesteListas\TesteListas\obj\Debug\net8.0\TesteListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caster\Documents\Cursos\POO C#\Testes Listas\TesteListas\TesteListas\obj\Debug\net8.0\TesteListas.AssemblyInfoInputs.cache
+C:\Users\Caster\Documents\Cursos\POO C#\Testes Listas\TesteListas\TesteListas\obj\Debug\net8.0\TesteListas.AssemblyInfo.cs
+C:\Users\Caster\Documents\Cursos\POO C#\Testes Listas\TesteListas\TesteListas\obj\Debug\net8.0\TesteListas.csproj.CoreCompileInputs.cache
+C:\Users\Caster\Documents\Cursos\POO C#\Testes Listas\TesteListas\TesteListas\obj\Debug\net8.0\TesteListas.dll
+C:\Users\Caster\Documents\Cursos\POO C#\Testes Listas\TesteListas\TesteListas\obj\Debug\net8.0\refint\TesteListas.dll
+C:\Users\Caster\Documents\Cursos\POO C#\Testes Listas\TesteListas\TesteListas\obj\Debug\net8.0\TesteListas.pdb
+C:\Users\Caster\Documents\Cursos\POO C#\Testes Listas\TesteListas\TesteListas\obj\Debug\net8.0\TesteListas.genruntimeconfig.cache
+C:\Users\Caster\Documents\Cursos\POO C#\Testes Listas\TesteListas\TesteListas\obj\Debug\net8.0\ref\TesteListas.dll

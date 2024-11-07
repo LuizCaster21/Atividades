@@ -1,0 +1,14 @@
+c:\Users\Caster\Documents\Cursos\POO C#\Teste Estruturas repetitivas (aula 32)\obj\Debug\net8.0\Teste Estruturas repetitivas (aula 32).GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Caster\Documents\Cursos\POO C#\Teste Estruturas repetitivas (aula 32)\obj\Debug\net8.0\Teste Estruturas repetitivas (aula 32).AssemblyInfoInputs.cache
+c:\Users\Caster\Documents\Cursos\POO C#\Teste Estruturas repetitivas (aula 32)\obj\Debug\net8.0\Teste Estruturas repetitivas (aula 32).AssemblyInfo.cs
+c:\Users\Caster\Documents\Cursos\POO C#\Teste Estruturas repetitivas (aula 32)\obj\Debug\net8.0\Teste Estruturas repetitivas (aula 32).csproj.CoreCompileInputs.cache
+C:\Users\Caster\Documents\Cursos\POO C#\Teste Estruturas repetitivas (aula 32)\bin\Debug\net8.0\Teste Estruturas repetitivas (aula 32).exe
+C:\Users\Caster\Documents\Cursos\POO C#\Teste Estruturas repetitivas (aula 32)\bin\Debug\net8.0\Teste Estruturas repetitivas (aula 32).deps.json
+C:\Users\Caster\Documents\Cursos\POO C#\Teste Estruturas repetitivas (aula 32)\bin\Debug\net8.0\Teste Estruturas repetitivas (aula 32).runtimeconfig.json
+C:\Users\Caster\Documents\Cursos\POO C#\Teste Estruturas repetitivas (aula 32)\bin\Debug\net8.0\Teste Estruturas repetitivas (aula 32).dll
+C:\Users\Caster\Documents\Cursos\POO C#\Teste Estruturas repetitivas (aula 32)\bin\Debug\net8.0\Teste Estruturas repetitivas (aula 32).pdb
+C:\Users\Caster\Documents\Cursos\POO C#\Teste Estruturas repetitivas (aula 32)\obj\Debug\net8.0\Teste Estruturas repetitivas (aula 32).dll
+C:\Users\Caster\Documents\Cursos\POO C#\Teste Estruturas repetitivas (aula 32)\obj\Debug\net8.0\refint\Teste Estruturas repetitivas (aula 32).dll
+C:\Users\Caster\Documents\Cursos\POO C#\Teste Estruturas repetitivas (aula 32)\obj\Debug\net8.0\Teste Estruturas repetitivas (aula 32).pdb
+C:\Users\Caster\Documents\Cursos\POO C#\Teste Estruturas repetitivas (aula 32)\obj\Debug\net8.0\Teste Estruturas repetitivas (aula 32).genruntimeconfig.cache
+C:\Users\Caster\Documents\Cursos\POO C#\Teste Estruturas repetitivas (aula 32)\obj\Debug\net8.0\ref\Teste Estruturas repetitivas (aula 32).dll

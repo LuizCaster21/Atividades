@@ -1,0 +1,14 @@
+C:\Users\Caster\Documents\Cursos\POO C#\ExEstoquePoo\ExEstoque\ExEstoque\bin\Debug\net8.0\ExEstoque.exe
+C:\Users\Caster\Documents\Cursos\POO C#\ExEstoquePoo\ExEstoque\ExEstoque\bin\Debug\net8.0\ExEstoque.deps.json
+C:\Users\Caster\Documents\Cursos\POO C#\ExEstoquePoo\ExEstoque\ExEstoque\bin\Debug\net8.0\ExEstoque.runtimeconfig.json
+C:\Users\Caster\Documents\Cursos\POO C#\ExEstoquePoo\ExEstoque\ExEstoque\bin\Debug\net8.0\ExEstoque.dll
+C:\Users\Caster\Documents\Cursos\POO C#\ExEstoquePoo\ExEstoque\ExEstoque\bin\Debug\net8.0\ExEstoque.pdb
+C:\Users\Caster\Documents\Cursos\POO C#\ExEstoquePoo\ExEstoque\ExEstoque\obj\Debug\net8.0\ExEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caster\Documents\Cursos\POO C#\ExEstoquePoo\ExEstoque\ExEstoque\obj\Debug\net8.0\ExEstoque.AssemblyInfoInputs.cache
+C:\Users\Caster\Documents\Cursos\POO C#\ExEstoquePoo\ExEstoque\ExEstoque\obj\Debug\net8.0\ExEstoque.AssemblyInfo.cs
+C:\Users\Caster\Documents\Cursos\POO C#\ExEstoquePoo\ExEstoque\ExEstoque\obj\Debug\net8.0\ExEstoque.csproj.CoreCompileInputs.cache
+C:\Users\Caster\Documents\Cursos\POO C#\ExEstoquePoo\ExEstoque\ExEstoque\obj\Debug\net8.0\ExEstoque.dll
+C:\Users\Caster\Documents\Cursos\POO C#\ExEstoquePoo\ExEstoque\ExEstoque\obj\Debug\net8.0\refint\ExEstoque.dll
+C:\Users\Caster\Documents\Cursos\POO C#\ExEstoquePoo\ExEstoque\ExEstoque\obj\Debug\net8.0\ExEstoque.pdb
+C:\Users\Caster\Documents\Cursos\POO C#\ExEstoquePoo\ExEstoque\ExEstoque\obj\Debug\net8.0\ExEstoque.genruntimeconfig.cache
+C:\Users\Caster\Documents\Cursos\POO C#\ExEstoquePoo\ExEstoque\ExEstoque\obj\Debug\net8.0\ref\ExEstoque.dll

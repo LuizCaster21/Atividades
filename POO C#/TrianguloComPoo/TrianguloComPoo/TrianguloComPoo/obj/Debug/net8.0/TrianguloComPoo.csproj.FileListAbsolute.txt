@@ -1,0 +1,14 @@
+C:\Users\Caster\Documents\Cursos\POO C#\TrianguloComPoo\TrianguloComPoo\TrianguloComPoo\bin\Debug\net8.0\TrianguloComPoo.exe
+C:\Users\Caster\Documents\Cursos\POO C#\TrianguloComPoo\TrianguloComPoo\TrianguloComPoo\bin\Debug\net8.0\TrianguloComPoo.deps.json
+C:\Users\Caster\Documents\Cursos\POO C#\TrianguloComPoo\TrianguloComPoo\TrianguloComPoo\bin\Debug\net8.0\TrianguloComPoo.runtimeconfig.json
+C:\Users\Caster\Documents\Cursos\POO C#\TrianguloComPoo\TrianguloComPoo\TrianguloComPoo\bin\Debug\net8.0\TrianguloComPoo.dll
+C:\Users\Caster\Documents\Cursos\POO C#\TrianguloComPoo\TrianguloComPoo\TrianguloComPoo\bin\Debug\net8.0\TrianguloComPoo.pdb
+C:\Users\Caster\Documents\Cursos\POO C#\TrianguloComPoo\TrianguloComPoo\TrianguloComPoo\obj\Debug\net8.0\TrianguloComPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caster\Documents\Cursos\POO C#\TrianguloComPoo\TrianguloComPoo\TrianguloComPoo\obj\Debug\net8.0\TrianguloComPoo.AssemblyInfoInputs.cache
+C:\Users\Caster\Documents\Cursos\POO C#\TrianguloComPoo\TrianguloComPoo\TrianguloComPoo\obj\Debug\net8.0\TrianguloComPoo.AssemblyInfo.cs
+C:\Users\Caster\Documents\Cursos\POO C#\TrianguloComPoo\TrianguloComPoo\TrianguloComPoo\obj\Debug\net8.0\TrianguloComPoo.csproj.CoreCompileInputs.cache
+C:\Users\Caster\Documents\Cursos\POO C#\TrianguloComPoo\TrianguloComPoo\TrianguloComPoo\obj\Debug\net8.0\TrianguloComPoo.dll
+C:\Users\Caster\Documents\Cursos\POO C#\TrianguloComPoo\TrianguloComPoo\TrianguloComPoo\obj\Debug\net8.0\refint\TrianguloComPoo.dll
+C:\Users\Caster\Documents\Cursos\POO C#\TrianguloComPoo\TrianguloComPoo\TrianguloComPoo\obj\Debug\net8.0\TrianguloComPoo.pdb
+C:\Users\Caster\Documents\Cursos\POO C#\TrianguloComPoo\TrianguloComPoo\TrianguloComPoo\obj\Debug\net8.0\TrianguloComPoo.genruntimeconfig.cache
+C:\Users\Caster\Documents\Cursos\POO C#\TrianguloComPoo\TrianguloComPoo\TrianguloComPoo\obj\Debug\net8.0\ref\TrianguloComPoo.dll

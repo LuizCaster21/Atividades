@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Caster\\Documents\\Cursos\\POO C#\\TrianguloComPoo\\TrianguloComPoo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA145A9-0862-404F-B749-08BD37AA1F05}|TrianguloComPoo\\TrianguloComPoo.csproj|c:\\users\\caster\\documents\\cursos\\poo c#\\triangulocompoo\\triangulocompoo\\triangulocompoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA145A9-0862-404F-B749-08BD37AA1F05}|TrianguloComPoo\\TrianguloComPoo.csproj|solutionrelative:triangulocompoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA145A9-0862-404F-B749-08BD37AA1F05}|TrianguloComPoo\\TrianguloComPoo.csproj|c:\\users\\caster\\documents\\cursos\\poo c#\\triangulocompoo\\triangulocompoo\\triangulocompoo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA145A9-0862-404F-B749-08BD37AA1F05}|TrianguloComPoo\\TrianguloComPoo.csproj|solutionrelative:triangulocompoo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Caster\\Documents\\Cursos\\POO C#\\TrianguloComPoo\\TrianguloComPoo\\TrianguloComPoo\\Triangulo.cs",
+              "RelativeDocumentMoniker": "TrianguloComPoo\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\Caster\\Documents\\Cursos\\POO C#\\TrianguloComPoo\\TrianguloComPoo\\TrianguloComPoo\\Triangulo.cs",
+              "RelativeToolTip": "TrianguloComPoo\\Triangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T05:16:27.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Caster\\Documents\\Cursos\\POO C#\\TrianguloComPoo\\TrianguloComPoo\\TrianguloComPoo\\Program.cs",
+              "RelativeDocumentMoniker": "TrianguloComPoo\\Program.cs",
+              "ToolTip": "C:\\Users\\Caster\\Documents\\Cursos\\POO C#\\TrianguloComPoo\\TrianguloComPoo\\TrianguloComPoo\\Program.cs",
+              "RelativeToolTip": "TrianguloComPoo\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T05:13:48.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

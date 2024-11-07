@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Caster\\Documents\\Cursos\\POO C#\\PrimeirosExClasseObjeto\\Ex1\\Ex2\\Ex2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7042E7-96BC-4DAB-8B0D-0DFF7FE52253}|Ex2\\Ex2.csproj|c:\\users\\caster\\documents\\cursos\\poo c#\\primeirosexclasseobjeto\\ex1\\ex2\\ex2\\ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7042E7-96BC-4DAB-8B0D-0DFF7FE52253}|Ex2\\Ex2.csproj|solutionrelative:ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7042E7-96BC-4DAB-8B0D-0DFF7FE52253}|Ex2\\Ex2.csproj|c:\\users\\caster\\documents\\cursos\\poo c#\\primeirosexclasseobjeto\\ex1\\ex2\\ex2\\ex2\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7042E7-96BC-4DAB-8B0D-0DFF7FE52253}|Ex2\\Ex2.csproj|solutionrelative:ex2\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\Caster\\Documents\\Cursos\\POO C#\\PrimeirosExClasseObjeto\\Ex1\\Ex2\\Ex2\\Ex2\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Ex2\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\Caster\\Documents\\Cursos\\POO C#\\PrimeirosExClasseObjeto\\Ex1\\Ex2\\Ex2\\Ex2\\Funcionario.cs",
+              "RelativeToolTip": "Ex2\\Funcionario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T05:49:18.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Caster\\Documents\\Cursos\\POO C#\\PrimeirosExClasseObjeto\\Ex1\\Ex2\\Ex2\\Ex2\\Program.cs",
+              "RelativeDocumentMoniker": "Ex2\\Program.cs",
+              "ToolTip": "C:\\Users\\Caster\\Documents\\Cursos\\POO C#\\PrimeirosExClasseObjeto\\Ex1\\Ex2\\Ex2\\Ex2\\Program.cs",
+              "RelativeToolTip": "Ex2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T05:48:22.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
