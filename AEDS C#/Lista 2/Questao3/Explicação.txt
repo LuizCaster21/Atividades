@@ -1,0 +1,22 @@
+Verifica a fila: Se a fila não estiver vazia, o primeiro elemento (apontado por inicioFila) é removido simplesmente atualizando inicioFila para o próximo nó.
+Verifica a pilha: Se a fila estiver vazia e a pilha não, o primeiro elemento da pilha é removido de forma similar.
+Remove do meio da lista: Se ambas as estruturas estiverem vazias, a função assume que a lista tem pelo menos dois elementos (caso contrário, seria uma condição de erro). Dois ponteiros, anterior e atual, são usados para percorrer a lista até encontrar o último elemento. O elemento anterior ao último é então desconectado do último, efetivamente removendo o último elemento.
+Considerações:
+
+Remoção do meio da lista: A implementação assume que a lista tem pelo menos dois elementos. Para lidar com listas vazias ou com apenas um elemento, seria necessário adicionar verificações adicionais.
+Eficiência: A remoção da fila e da pilha é constante (O(1)), enquanto a remoção do meio da lista é linear (O(n)) no pior caso, pois é necessário percorrer toda a lista.
+Melhorias: Para melhorar a eficiência da remoção do meio da lista, poderia ser utilizada uma lista duplamente encadeada, que permite acessar o elemento anterior e o próximo elemento de forma eficiente.
+Outras operações: Poderiam ser implementadas outras operações como buscar um elemento, verificar se a estrutura está vazia, etc.
+Observações:
+
+Remoção da pilha: A remoção da pilha está sendo feita de forma simplificada, assumindo que queremos remover o último elemento inserido. Em algumas implementações de pilha, pode ser mais comum remover o primeiro elemento (topo da pilha).
+Remoção do meio da lista: A implementação remove o último elemento da lista. Se a intenção for remover um elemento específico (por exemplo, por valor), seria necessário percorrer a lista procurando pelo elemento e, então, removê-lo.
+Exemplo de uso:
+
+C#
+Doidao doidao = new Doidao();
+// ... (adicionar elementos)
+doidao.RemoverElemento(); // Remove o primeiro elemento da fila ou pilha, ou o do meio da lista
+Use o código com cuidado.
+
+Com essa função, você pode remover elementos do Doidao seguindo a ordem de prioridade definida. 
