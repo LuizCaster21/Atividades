@@ -1,0 +1,15 @@
+c:\Users\Infinity\Documents\LuizEstudos\Repo\LuizCaster21\POO C#\CondicionalTernaria\bin\Debug\net8.0\CondicionalTernaria.exe
+c:\Users\Infinity\Documents\LuizEstudos\Repo\LuizCaster21\POO C#\CondicionalTernaria\bin\Debug\net8.0\CondicionalTernaria.deps.json
+c:\Users\Infinity\Documents\LuizEstudos\Repo\LuizCaster21\POO C#\CondicionalTernaria\bin\Debug\net8.0\CondicionalTernaria.runtimeconfig.json
+c:\Users\Infinity\Documents\LuizEstudos\Repo\LuizCaster21\POO C#\CondicionalTernaria\bin\Debug\net8.0\CondicionalTernaria.dll
+c:\Users\Infinity\Documents\LuizEstudos\Repo\LuizCaster21\POO C#\CondicionalTernaria\bin\Debug\net8.0\CondicionalTernaria.pdb
+c:\Users\Infinity\Documents\LuizEstudos\Repo\LuizCaster21\POO C#\CondicionalTernaria\obj\Debug\net8.0\CondicionalTernaria.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Infinity\Documents\LuizEstudos\Repo\LuizCaster21\POO C#\CondicionalTernaria\obj\Debug\net8.0\CondicionalTernaria.AssemblyInfoInputs.cache
+c:\Users\Infinity\Documents\LuizEstudos\Repo\LuizCaster21\POO C#\CondicionalTernaria\obj\Debug\net8.0\CondicionalTernaria.AssemblyInfo.cs
+c:\Users\Infinity\Documents\LuizEstudos\Repo\LuizCaster21\POO C#\CondicionalTernaria\obj\Debug\net8.0\CondicionalTernaria.csproj.CoreCompileInputs.cache
+c:\Users\Infinity\Documents\LuizEstudos\Repo\LuizCaster21\POO C#\CondicionalTernaria\obj\Debug\net8.0\CondicionalTernaria.sourcelink.json
+c:\Users\Infinity\Documents\LuizEstudos\Repo\LuizCaster21\POO C#\CondicionalTernaria\obj\Debug\net8.0\CondicionalTernaria.dll
+c:\Users\Infinity\Documents\LuizEstudos\Repo\LuizCaster21\POO C#\CondicionalTernaria\obj\Debug\net8.0\refint\CondicionalTernaria.dll
+c:\Users\Infinity\Documents\LuizEstudos\Repo\LuizCaster21\POO C#\CondicionalTernaria\obj\Debug\net8.0\CondicionalTernaria.pdb
+c:\Users\Infinity\Documents\LuizEstudos\Repo\LuizCaster21\POO C#\CondicionalTernaria\obj\Debug\net8.0\CondicionalTernaria.genruntimeconfig.cache
+c:\Users\Infinity\Documents\LuizEstudos\Repo\LuizCaster21\POO C#\CondicionalTernaria\obj\Debug\net8.0\ref\CondicionalTernaria.dll
