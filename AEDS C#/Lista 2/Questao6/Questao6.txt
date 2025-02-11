@@ -1,3 +1,0 @@
-Melhor caso: O(1) (inserção em pilha, fila ou lista com referência para o último nó)
-Pior caso: O(n) (inserção no final de uma lista encadeada sem referência para o último nó)
-Observação: A complexidade da remoção de elementos no Doidao segue um raciocínio similar. A remoção de elementos do início da pilha ou fila é O(1), enquanto a remoção de um elemento específico da lista pode ser O(n) no pior caso.
