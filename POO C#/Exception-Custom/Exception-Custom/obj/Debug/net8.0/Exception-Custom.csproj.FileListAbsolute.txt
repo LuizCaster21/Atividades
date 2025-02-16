@@ -1,0 +1,15 @@
+C:\Users\luizf\OneDrive\Documentos\Atividades\repo\POO C#\Exception-Custom\Exception-Custom\obj\Debug\net8.0\Exception-Custom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizf\OneDrive\Documentos\Atividades\repo\POO C#\Exception-Custom\Exception-Custom\obj\Debug\net8.0\Exception-Custom.AssemblyInfoInputs.cache
+C:\Users\luizf\OneDrive\Documentos\Atividades\repo\POO C#\Exception-Custom\Exception-Custom\obj\Debug\net8.0\Exception-Custom.AssemblyInfo.cs
+C:\Users\luizf\OneDrive\Documentos\Atividades\repo\POO C#\Exception-Custom\Exception-Custom\obj\Debug\net8.0\Exception-Custom.csproj.CoreCompileInputs.cache
+C:\Users\luizf\OneDrive\Documentos\Atividades\repo\POO C#\Exception-Custom\Exception-Custom\obj\Debug\net8.0\Exception-Custom.sourcelink.json
+C:\Users\luizf\OneDrive\Documentos\Atividades\repo\POO C#\Exception-Custom\Exception-Custom\bin\Debug\net8.0\Exception-Custom.exe
+C:\Users\luizf\OneDrive\Documentos\Atividades\repo\POO C#\Exception-Custom\Exception-Custom\bin\Debug\net8.0\Exception-Custom.deps.json
+C:\Users\luizf\OneDrive\Documentos\Atividades\repo\POO C#\Exception-Custom\Exception-Custom\bin\Debug\net8.0\Exception-Custom.runtimeconfig.json
+C:\Users\luizf\OneDrive\Documentos\Atividades\repo\POO C#\Exception-Custom\Exception-Custom\bin\Debug\net8.0\Exception-Custom.dll
+C:\Users\luizf\OneDrive\Documentos\Atividades\repo\POO C#\Exception-Custom\Exception-Custom\bin\Debug\net8.0\Exception-Custom.pdb
+C:\Users\luizf\OneDrive\Documentos\Atividades\repo\POO C#\Exception-Custom\Exception-Custom\obj\Debug\net8.0\Exception-Custom.dll
+C:\Users\luizf\OneDrive\Documentos\Atividades\repo\POO C#\Exception-Custom\Exception-Custom\obj\Debug\net8.0\refint\Exception-Custom.dll
+C:\Users\luizf\OneDrive\Documentos\Atividades\repo\POO C#\Exception-Custom\Exception-Custom\obj\Debug\net8.0\Exception-Custom.pdb
+C:\Users\luizf\OneDrive\Documentos\Atividades\repo\POO C#\Exception-Custom\Exception-Custom\obj\Debug\net8.0\Exception-Custom.genruntimeconfig.cache
+C:\Users\luizf\OneDrive\Documentos\Atividades\repo\POO C#\Exception-Custom\Exception-Custom\obj\Debug\net8.0\ref\Exception-Custom.dll

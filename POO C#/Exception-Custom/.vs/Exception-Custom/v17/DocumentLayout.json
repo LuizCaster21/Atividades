@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luizf\\OneDrive\\Documentos\\Atividades\\repo\\POO C#\\Exception-Custom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01DF489C-DC16-4668-BDC4-0EF29F781A18}|Exception-Custom\\Exception-Custom.csproj|c:\\users\\luizf\\onedrive\\documentos\\atividades\\repo\\poo c#\\exception-custom\\exception-custom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01DF489C-DC16-4668-BDC4-0EF29F781A18}|Exception-Custom\\Exception-Custom.csproj|solutionrelative:exception-custom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01DF489C-DC16-4668-BDC4-0EF29F781A18}|Exception-Custom\\Exception-Custom.csproj|c:\\users\\luizf\\onedrive\\documentos\\atividades\\repo\\poo c#\\exception-custom\\exception-custom\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01DF489C-DC16-4668-BDC4-0EF29F781A18}|Exception-Custom\\Exception-Custom.csproj|solutionrelative:exception-custom\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01DF489C-DC16-4668-BDC4-0EF29F781A18}|Exception-Custom\\Exception-Custom.csproj|c:\\users\\luizf\\onedrive\\documentos\\atividades\\repo\\poo c#\\exception-custom\\exception-custom\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01DF489C-DC16-4668-BDC4-0EF29F781A18}|Exception-Custom\\Exception-Custom.csproj|solutionrelative:exception-custom\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01DF489C-DC16-4668-BDC4-0EF29F781A18}|Exception-Custom\\Exception-Custom.csproj|c:\\users\\luizf\\onedrive\\documentos\\atividades\\repo\\poo c#\\exception-custom\\exception-custom\\exception-custom.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{01DF489C-DC16-4668-BDC4-0EF29F781A18}|Exception-Custom\\Exception-Custom.csproj|solutionrelative:exception-custom\\exception-custom.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exception-Custom.csproj",
+              "DocumentMoniker": "C:\\Users\\luizf\\OneDrive\\Documentos\\Atividades\\repo\\POO C#\\Exception-Custom\\Exception-Custom\\Exception-Custom.csproj",
+              "RelativeDocumentMoniker": "Exception-Custom\\Exception-Custom.csproj",
+              "ToolTip": "C:\\Users\\luizf\\OneDrive\\Documentos\\Atividades\\repo\\POO C#\\Exception-Custom\\Exception-Custom\\Exception-Custom.csproj",
+              "RelativeToolTip": "Exception-Custom\\Exception-Custom.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-15T22:24:09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\luizf\\OneDrive\\Documentos\\Atividades\\repo\\POO C#\\Exception-Custom\\Exception-Custom\\Entities\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "Exception-Custom\\Entities\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Users\\luizf\\OneDrive\\Documentos\\Atividades\\repo\\POO C#\\Exception-Custom\\Exception-Custom\\Entities\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "Exception-Custom\\Entities\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T22:22:55.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\luizf\\OneDrive\\Documentos\\Atividades\\repo\\POO C#\\Exception-Custom\\Exception-Custom\\Entities\\Reservation.cs",
+              "RelativeDocumentMoniker": "Exception-Custom\\Entities\\Reservation.cs",
+              "ToolTip": "C:\\Users\\luizf\\OneDrive\\Documentos\\Atividades\\repo\\POO C#\\Exception-Custom\\Exception-Custom\\Entities\\Reservation.cs",
+              "RelativeToolTip": "Exception-Custom\\Entities\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T21:42:57.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luizf\\OneDrive\\Documentos\\Atividades\\repo\\POO C#\\Exception-Custom\\Exception-Custom\\Program.cs",
+              "RelativeDocumentMoniker": "Exception-Custom\\Program.cs",
+              "ToolTip": "C:\\Users\\luizf\\OneDrive\\Documentos\\Atividades\\repo\\POO C#\\Exception-Custom\\Exception-Custom\\Program.cs",
+              "RelativeToolTip": "Exception-Custom\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T21:37:57.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
